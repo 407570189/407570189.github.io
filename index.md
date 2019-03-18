@@ -8,6 +8,10 @@
     font-size: 32px;
     font-family: monospace;
   }
+   body {
+    font-size: 32px;
+    font-family: monospace;
+  }
   h1 {
     font-family: Lobster;
   }
@@ -30,4 +34,8 @@
 <img src="https://static.vecteezy.com/system/resources/previews/000/096/107/original/marathon-runner-vector.jpg">
   <label for="indoor"><input id="indoor" type="radio" name="indoor-outdoor">喜歡</label>
     <label for="outdoor"><input id="outdoor" type="radio" name="indoor-outdoor">不喜歡</label><br>
-   
+  <head>
+    <body>
+    感想:第一次做網頁很不熟悉，希望以後能做出更好的作品。
+  </body>
+  
