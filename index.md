@@ -2,6 +2,7 @@
 
 <style>
   p {color:red;}
+  ol{color:red;}
   h1 {
     font-family: Lobster;
   }
