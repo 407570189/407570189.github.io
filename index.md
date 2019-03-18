@@ -1,5 +1,8 @@
 ## Welcome to my website
-<h1 style = "colar: red;">醫資一/黃昱璇</h1>
+<style>
+  p {color:red}
+  </style>
+<h1 style = "color: red;">醫資一/黃昱璇</h1>
 <ul>
   <li>生日:890705</li>
   <li>性別:男</li>
