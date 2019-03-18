@@ -26,10 +26,12 @@
 </ul>
 <p>興趣:</p>
  <ol>
-  <li>籃球</li><a href=<https://www.youtube.com/watch?v=MWKG_3Itilo>basketball</a>
+  <li>籃球</li>
   <li>足球</li>
-  <li>跑步</li>  
+  <li>跑步</li> 
+  </ol>
  <img src ="http://getwallpapers.com/wallpaper/full/2/6/3/606484.jpg"> 
+ <a href=<https://www.youtube.com/watch?v=MWKG_3Itilo>basketball</a>
  <img src="https://kukuru.tw/wp-content/uploads/2018/06/Brazil.jpg">
 <img src="https://static.vecteezy.com/system/resources/previews/000/096/107/original/marathon-runner-vector.jpg">
   <label for="indoor"><input id="indoor" type="radio" name="indoor-outdoor">喜歡</label>
