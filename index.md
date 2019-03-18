@@ -2,6 +2,9 @@
 
 <style>
   p {color:red;}
+  h1 {
+    font-family: Lobster;
+  }
   </style>
 <h1>醫資一/黃昱璇</h1>
 <ul>
